@@ -22,7 +22,7 @@ However, it often becomes apparent to me when reading about these efforts that t
 
 In this series of posts, I will be going through six major features of an IDE, and giving examples showing how common tools available in Linux allow you to use them together with ease. This will by no means be a comprehensive survey, nor are the tools I will demonstrate the only options.
 
--   **File and project management** — `ls`, `find`, `grep`/`ack`, `bash`
+-   **File and project management** — `ls`, `find`, `grep`/`awk`, `bash`
 -   **Text editor and editing tools** — `vim`, `awk`, `sort`, `column`
 -   **Compiler and/or interpreter** — `gcc`, `perl`
 -   **Build tools** — `make`
